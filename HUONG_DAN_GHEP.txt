@@ -1,0 +1,6 @@
+Backup pi 2026-10-03 (ma hoa AES-256, 7-Zip).
+
+GHEP LAI (Windows CMD):
+  copy /b pi_backup_3_10b_enc.7z.part-* pi_backup_3_10b_enc.7z
+
+Mo bang 7-Zip/WinRAR, mat khau Thang giu rieng.
